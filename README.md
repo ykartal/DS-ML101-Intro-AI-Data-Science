@@ -24,7 +24,8 @@ Note: If you don't want to work on these scripts, you can view the file contents
    * Select **Python 3.x** or create an environment
 
 ### Featured Project
-In this module, we start to implement a Simple Linear Regression model from scratch using scikit-learn
+In this module;
+1. we start to implement a Simple Linear Regression model from scratch using scikit-learn
 
 ### Contributing
 Students are encouraged to fork this repository and submit Pull Requests with their own improvements or alternative solutions to the exercises! 
